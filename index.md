@@ -17,3 +17,4 @@ ls -lat:
 ls -a:
 ![ing](a.png)
 cat /home/linux/ieng6/cs15lwi23/public/hello.txt:
+![ing](aa.png)
