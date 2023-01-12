@@ -11,6 +11,7 @@ Description: I’ve already used visual studio code for a quarter. It’s a pret
 ![ing](e.png)
 
 3.Try some useful commands:
+
 ls -lat:
 ![ing](f.png)
 ls -a:
