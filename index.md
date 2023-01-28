@@ -49,8 +49,17 @@ Let's start to learn how to remote connect!
 
 - First, type your user name:
 ![ing](c.png)
-- Second, type your password:
+
+When you trying to ssh by using the user name, remember to type 'ssh' following your user name for examaple ssh cs15lwi2ssss@ieng6.ucsd.edu
+
+Several possibilities that could cause you fail to log in:
+(1) add dollar sign before the ssh. It's going to show your command not found. Please retype ssh with your usernaame without dollar sign
+(2) type wrong passwords. If you type wrong passwords, you will see 'Password: ' again in a new line. It indicates you that you have to retype your 
+correct password or username. It's highly recommoand to copy paste the password instead directly type.
+
+- Second, type your correct password:
 ![ing](d.png)
+
 - Finally, after your successful typed your password, you will see:
 ![ing](e.png)
 
