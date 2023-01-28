@@ -67,9 +67,12 @@ correct password or username. It's highly recommoand to copy paste the password 
 
 3.Try some useful commands:
 
-ls -lat:
+ls: This command is used to list files, use the ls command. 
+All files in the current directory are listed by "ls" on its own, except hidden files.
 ![ing](f.png)
 ls -a:
 ![ing](a.png)
 cat /home/linux/ieng6/cs15lwi23/public/hello.txt:
+the cat and the path would show the contents in the path.
+So, according this commanad, it's going to show 
 ![ing](aa.png)
