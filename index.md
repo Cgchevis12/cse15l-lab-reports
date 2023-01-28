@@ -11,9 +11,9 @@ Second: In the VS code webset, following the red arrow in the picture to click t
 
 Third: In the download page, you can select a proper operating system.
 
-Fourth: For example, If you're a user with Mac, and then just follow the red arrow to down load the VS code for Mac operating system
+![ing](3.png)
 
-![ing](b.png)
+Fourth: For example, If you're a user with Mac, and then just follow the red arrow to down load the VS code for Mac operating system
 
 Fifth: After the download finish, you could find the VS code following your download path. When you find it, open it and download it to local.
 
