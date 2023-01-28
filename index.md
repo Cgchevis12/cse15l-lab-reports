@@ -6,10 +6,9 @@ Second: In the VS code webset, following the red arrow in the picture to click t
 
 ![ing](1.png)
 
+Third: In the download page, you can select a proper operating system.
 
 ![ing](2.png)
-
-Third: In the download page, you can select a proper operating system.
 
 ![ing](3.png)
 
