@@ -6,7 +6,6 @@ Second: In the VS code webset, following the red arrow in the picture to click t
 
 ![ing](1.png)
 
-Second: In the VS code webset, following the red arrow in the picture to click the download buttom
 
 ![ing](2.png)
 
