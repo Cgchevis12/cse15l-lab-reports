@@ -45,6 +45,7 @@ for searching your CSE15L username.
 (5) After you changed your password, please wait for around 15 minuts. And then your username would work! lets use your valid account to learn how
 to remote connect! 
 
+
 Let's start to learn how to remote connect!
 
 - First, type your user name:
