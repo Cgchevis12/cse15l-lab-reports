@@ -26,17 +26,27 @@ Sixth: after the download, open it and you will see the VS code main page. Click
 Before the successful remote connection, it's important to prepare the ssh user name and password well.
 The user name is already prepared when you entered the CSE15L. Now I will teach you how to find your 
 user name and how to change the password to active your account.
+
 (1) Look up your course-specific account for CSE15L here:
 https://sdacs.ucsd.edu/~icc/index.php
+![ing](4.png)
 
 (2) After openning the link, you will see accounts loop up(as shown in the picture), please to type your user name and student ID correctly 
 for searching your CSE15L username.
 
+![ing](5.png)
+
 (3) After you successful log in, you will find out your cse15L username. And the username commonly starts with cse15l.
 
 (4) Click the cse15l username, you can see 'change the passwork'(as picture), and you have to change the password now to active your account.
+
+![ing](6.png)
+
 (5) After you changed your password, please wait for around 15 minuts. And then your username would work! lets use your valid account to learn how
 to remote connect! 
+
+Let's start to learn how to remote connect!
+
 - First, type your user name:
 ![ing](c.png)
 - Second, type your password:
