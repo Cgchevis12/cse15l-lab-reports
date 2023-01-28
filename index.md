@@ -1,5 +1,7 @@
 1.VS code installation and set up:
+
 First: Search the link to Open the VS code official webset: https://code.visualstudio.com/
+
 ![ing](1.png)
 Second: In the VS code webset, following the red arrow in the picture to click the download buttom
 ![ing](2.png)
