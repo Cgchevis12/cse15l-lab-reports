@@ -70,11 +70,11 @@ correct password or username. It's highly recommoand to copy paste the password 
 ls: This command is used to list files, use the ls command. 
 All files in the current directory are listed by "ls" on its own, except hidden files.
 so after the command ls run, it shows three files in our current directry, the hello.txt, the perl5, and the wavelet
-
+![ing](7.png)
 
 pwd: this command is going to show current directory path. And right now when we run the command pwd
 it shows that our current directory is /home/linux/ieng6/cs15lwi23/cs15lwi23atg as shown in the picture.
-
+![ing](8.png)
 
 cat /home/linux/ieng6/cs15lwi23/public/hello.txt:
 the cat and the path would show the contents in the path.
